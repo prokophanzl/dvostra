@@ -24,6 +24,11 @@ Lisabon je na sedmi kopcích a nadhled se tak nabízí při každé procházce. 
 
 ---
 
-![h16]({{site.baseurl}}/images/japonskou_krajinou_a_kulturou.jpg)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="{{site.baseurl}}/images/lisabon/lisabon.png" loading="lazy" alt="">
+  </div>
+  <em>Book cover</em>
+</div>
 
 ---

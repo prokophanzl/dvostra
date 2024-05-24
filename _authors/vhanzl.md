@@ -1,7 +1,7 @@
 ---
 username: vhanzl
 name: Václav Hanžl
-image: "/images/vhanzl.jpeg"
+image: "/images/authors/vhanzl.jpeg"
 website: https://github.com/vaclavhanzl
 facebook:
 ---

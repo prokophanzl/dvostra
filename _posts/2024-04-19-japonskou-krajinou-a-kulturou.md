@@ -4,14 +4,14 @@ title: "Japonskou krajinou a kulturou: Tři týdny v zemi vycházejícího slunc
 description: "Japonsko ve třech týdnech dynamického cestopisu: přečtěte si knihu, která vychází v květnu 2024."
 date: 2024-04-19 15:00
 author: dvostra
-image: images/japonskou_krajinou_a_kulturou.jpg
+image: images/japonskou_krajinou_a_kulturou/japonskou_krajinou_a_kulturou.jpg
 image_caption: Přebal knihy
 # tags: [kniha, japonsko]
 featured: true
 ---
 
 Kniha vychází v květnu 2024, [lze si ji objednat v e-shopech a podívat se na ukázku](https://www.luxor.cz/v/2020217/japonskou-krajinou-a-kulturou).
-Přečtěte si také [tiskovou zprávu s dalšími ukázkami z knihy](http://denisa.vostry.cz/resources/TZ_Japonskou_kulturou_a_krajinou.pdf)!
+Přečtěte si také [tiskovou zprávu s dalšími ukázkami z knihy]({{site.baseurl}}/images/japonskou_krajinou_a_kulturou/TZ_Japonskou_kulturou_a_krajinou.pdf)!
 
 ---
 
@@ -23,7 +23,7 @@ _Deník japanoložky Denisy Vostré vás vezme do jokohamského přístavu, do c
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="{{site.baseurl}}/images/japonskou_krajinou_a_kulturou.jpg" loading="lazy" alt="">
+    <img src="{{site.baseurl}}/images/japonskou_krajinou_a_kulturou/japonskou_krajinou_a_kulturou.jpg" loading="lazy" alt="">
   </div>
   <em>Přebal knihy</em>
 </div>

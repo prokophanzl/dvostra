@@ -1,7 +1,7 @@
 ---
 username: dvostra
 name: Denisa Vostrá
-image: "/images/dvostra.jpg"
+image: "/images/authors/dvostra.jpg"
 website:
 twitter:
 facebook:

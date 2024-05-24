@@ -3,7 +3,7 @@ layout: page
 title: Učebnice japonštiny
 description: Učebnice japonštiny autorek Dity Nymburské, Denisy Vostré a Mami Sawatari
 permalink: /japonstina/ucebnice
-image: /images/ucebnice.png
+image: /resources/ucebnice/ucebnice.png
 image_caption:
 ---
 
@@ -13,14 +13,14 @@ Učebnice japonštiny (hlavní učebnice, učebnice písma, klíč a slovníček
 
 ## Ukázky z učebnice
 
--   <a href='../../resources/ucebnice/ukazky/japonstina-ukazka.pdf' target='_blank'>Ukázka z učebnice Japonština (PDF)</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/japonstina-ukazka.pdf' target='_blank'>Ukázka z učebnice Japonština (PDF)</a>
 -   <a href='https://books.google.cz/books?id=zPRCVo--_mcC&dq=isbn:9788073350741&redir_esc=y&hl=en' target='_blank'>Google Books</a>
--   <a href='../../resources/ucebnice/ukazky/pismo-ukazka.pdf' target='_blank'>Ukázka ze svazku Japonština - Písmo</a>
--   <a href='../../resources/ucebnice/ukazky/slovklic-ukazka.pdf' target='_blank'>Ukázka ze svazku Japonština - slovníčky a klíč</a>
--   <a href='../../resources/ucebnice/ukazky/CD1_7.mp3' target='_blank'>Nahrávka CD 1/7 (Lekce 1, první část článku)</a>
--   <a href='../../resources/ucebnice/ukazky/CD1_8.mp3' target='_blank'>Nahrávka CD 1/8 (Lekce 1, druhá část článku)</a>
--   <a href='../../resources/ucebnice/ukazky/CD1_9.mp3' target='_blank'>Nahrávka CD 1/9 (Lekce 1, cvičení 1)</a>
--   <a href='../../resources/ucebnice/ukazky/CD1_10.mp3' target='_blank'>Nahrávka CD 1/10 (Lekce 1, cvičení 2)</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/pismo-ukazka.pdf' target='_blank'>Ukázka ze svazku Japonština - Písmo</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/slovklic-ukazka.pdf' target='_blank'>Ukázka ze svazku Japonština - slovníčky a klíč</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/CD1_7.mp3' target='_blank'>Nahrávka CD 1/7 (Lekce 1, první část článku)</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/CD1_8.mp3' target='_blank'>Nahrávka CD 1/8 (Lekce 1, druhá část článku)</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/CD1_9.mp3' target='_blank'>Nahrávka CD 1/9 (Lekce 1, cvičení 1)</a>
+-   <a href='{{ site.baseurl }}/resources/ucebnice/ukazky/CD1_10.mp3' target='_blank'>Nahrávka CD 1/10 (Lekce 1, cvičení 2)</a>
 
 ## Přiložená CD
 
@@ -36,12 +36,12 @@ Učebnice je provázena ilustracemi Jany Jirouškové. V poslední lekci pak ztv
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="../../images/komiks/tn_komiks_letadlo2.png" loading="lazy" alt="">
-    <img src="../../images/komiks/tn_komiks_ubytovani.png" loading="lazy" alt="">
-    <img src="../../images/komiks/tn_komiks_lazne1.png" loading="lazy" alt="">
-    <img src="../../images/komiks/tn_komiks_lazne2.png" loading="lazy" alt="">
-    <img src="../../images/komiks/tn_komiks_rjokan1.png" loading="lazy" alt="">
-    <img src="../../images/komiks/tn_komiks_rjokan2.png" loading="lazy" alt="">
+    <img src="{{ site.baseurl }}/images/komiks/tn_komiks_letadlo2.png" loading="lazy" alt="">
+    <img src="{{ site.baseurl }}/images/komiks/tn_komiks_ubytovani.png" loading="lazy" alt="">
+    <img src="{{ site.baseurl }}/images/komiks/tn_komiks_lazne1.png" loading="lazy" alt="">
+    <img src="{{ site.baseurl }}/images/komiks/tn_komiks_lazne2.png" loading="lazy" alt="">
+    <img src="{{ site.baseurl }}/images/komiks/tn_komiks_rjokan1.png" loading="lazy" alt="">
+    <img src="{{ site.baseurl }}/images/komiks/tn_komiks_rjokan2.png" loading="lazy" alt="">
   </div>
   <em>Ukázky ilustrací z učebnice</em>
 </div>
