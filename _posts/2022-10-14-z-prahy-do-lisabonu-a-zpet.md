@@ -4,7 +4,7 @@ title: Z Prahy do Lisabonu a zpět
 description: Je lepší horská dráha, nebo tramvaj v Lisabonu? Může mít život podobný říz, nebo se to stává jen ve fantazii? Psychiatr Radkin Honzák přirovnal tuhle knížku k obrazům Salvadora Daliho a našel v ní „malé radosti i zážitky na hranici extáze“.
 date: 2022-10-14 15:00
 author: vhanzl
-image: images/lisabon/lisabon.png
+image: /images/lisabon/lisabon.png
 image_caption: Přebal knihy
 # tags: [kniha]
 featured: true

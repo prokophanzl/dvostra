@@ -4,7 +4,7 @@ title: Voda na radost
 description: Další společná knížka psychiatra Radkina Honzáka a japanoložky Denisy Vostré, tentokrát o radosti a humoru.
 date: 2023-09-23 15:00
 author: vhanzl
-image: images/voda_na_radost/voda_na_radost.png
+image: /images/voda_na_radost/voda_na_radost.png
 image_caption: Plakát poetického večera
 # tags: [kniha]
 featured: true

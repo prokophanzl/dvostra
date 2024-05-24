@@ -4,7 +4,7 @@ title: A Storm in My Mind
 description: A story from Denisa Vostrá's new book <i><a href="z-prahy-do-lisabonu-a-zpet/" target="_blank">From Prague to Lisbon and Back</i></a>, translated into English by Prokop Hanžl
 date: 2022-11-11 15:00
 author: phanzl
-image: images/lisabon/lisabon.png
+image: /images/lisabon/lisabon.png
 image_caption: Book cover
 # tags: [kniha, english]
 featured:

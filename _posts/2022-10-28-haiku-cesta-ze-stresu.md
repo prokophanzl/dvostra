@@ -4,7 +4,7 @@ title: "Haiku: Cesta ze stresu"
 description: Poetická příručka k používání vlastních emocí i rozumu, od psychiatra Radkina Honzáka a japanoložky Denisy Vostré. Navíc se dozvíte mnoho o japonské kultuře a jistě vás potěší inspirující básně!
 date: 2022-10-28 15:00
 author: vhanzl
-image: images/haiku/haiku.png
+image: /images/haiku/haiku.png
 image_caption: Přebal knihy
 # tags: [kniha]
 featured: true

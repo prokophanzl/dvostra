@@ -4,7 +4,7 @@ title: Zápisky z bezčasí aneb Rok s koronavirem
 description: Zápisky z bezčasí Denisy Vostré, inspirované „dobou s koronavirem“, ukazují, že události v životě moderního člověka v sobě střetávají vážné s nevážným za všech okolností.
 date: 2021-05-05 15:00
 author: vhanzl
-image: images/zapisky/zapisky_z_bezcasi.png
+image: /images/zapisky/zapisky_z_bezcasi.png
 image_caption: Přebal knihy
 # tags: [kniha]
 featured: true

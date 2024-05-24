@@ -4,7 +4,7 @@ title: Japonština pro každého
 description: Učebnice základní japonštiny se spoustu zajímavostí o japonské společnosti a kultuře od Denisy Vostré a Alice Kraemerové.
 date: 2023-06-25 15:00
 author: vhanzl
-image: images/japonstina_pro_kazdeho/japonstina_pro_kazdeho.png
+image: /images/japonstina_pro_kazdeho/japonstina_pro_kazdeho.png
 image_caption: Plakát poetického večera
 # tags: [kniha]
 featured: true

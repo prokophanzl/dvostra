@@ -4,7 +4,7 @@ title: Poetický večer s Denisou Vostrou v Uměleckoprůmyslovém muzeu
 description: V úterý 24. 1. 2023 v 18:30 hodin v Knihovně Uměleckoprůmyslového muzea v Praze. Knihy Denisy Vostré bude možno v průběhu večera v Knihovně UPM zakoupit.
 date: 2023-01-17 15:00
 author: vhanzl
-image: images/poeticky_vecer/poeticky_vecer.jpg
+image: /images/poeticky_vecer/poeticky_vecer.jpg
 image_caption: Plakát poetického večera
 # tags: [kniha]
 featured:

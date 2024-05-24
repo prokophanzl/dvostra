@@ -4,7 +4,7 @@ title: O vývoji japonské tradiční poezie - přednáška a workshop v Opavě
 description: Těším se na vás v neděli 16. dubna 2023 v 15:00 hodin v Klubu Art na festivalu Další břehy v Opavě!
 date: 2023-04-09 15:00
 author: dvostra
-image: images/opava/opava.png
+image: /images/opava/opava.png
 image_caption: Plakát workshopu
 # tags: [kniha, english]
 featured:

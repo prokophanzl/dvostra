@@ -4,7 +4,7 @@ title: "Japonskou krajinou a kulturou: Tři týdny v zemi vycházejícího slunc
 description: "Japonsko ve třech týdnech dynamického cestopisu: přečtěte si knihu, která vychází v květnu 2024."
 date: 2024-04-19 15:00
 author: dvostra
-image: images/japonskou_krajinou_a_kulturou/japonskou_krajinou_a_kulturou.jpg
+image: /images/japonskou_krajinou_a_kulturou/japonskou_krajinou_a_kulturou.jpg
 image_caption: Přebal knihy
 # tags: [kniha, japonsko]
 featured: true
