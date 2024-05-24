@@ -1,114 +1,113 @@
+---
 #-------------------------------
 # Site Settings
-title: Dann
-logo: # You can add own logo. For example "/images/logo.png".
-description: Multipurpose Jekyll Blog Theme
-
+title: Denisa Vostrá
+logo:
+description: Spisovatelka, která vystudovala japanologii, chemické inženýrství a doktorské studium na divadelní fakultě. S tituly ze značně rozdílných oborů umí každý z nich vidět i zvenčí a umí tak podat pomocnou ruku těm, kdo se teprve nesměle rozhlížejí. Učí studenty univerzity i středoškoláky a často jim dodává odvahu nejen ke studiu japonštiny, ale i k novému pohledu na sebe sama. V současné době přednáší japonskou kulturu a historii a píše knihy, které se vyrovnávají s těžkostmi světa především smíchem a nadhledem.
 
 #-------------------------------
 # Author Global Settings
 author:
-  author__name: Dann Kanigan
-  author__bio: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
-  author__avatar: /images/01-1.jpg
-
+    author__name: Denisa Vostrá
+    author__bio: Spisovatelka, která vystudovala japanologii, chemické inženýrství a doktorské studium na divadelní fakultě. S tituly ze značně rozdílných oborů umí každý z nich vidět i zvenčí a umí tak podat pomocnou ruku těm, kdo se teprve nesměle rozhlížejí. Učí studenty univerzity i středoškoláky a často jim dodává odvahu nejen ke studiu japonštiny, ale i k novému pohledu na sebe sama. V současné době přednáší japonskou kulturu a historii a píše knihy, které se vyrovnávají s těžkostmi světa především smíchem a nadhledem.
+    author__avatar: /images/dvostra.jpg
 
 #-------------------------------
 # Navigation Settings
 menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Pages'
-      submenu:
-      - url: '/authors/'
-        title: 'Authors'
-      - url: '/elements/'
-        title: 'Elements'
-    - title: 'Contact'
-      url: '/contact/'
-
+    menu__items:
+        - title: "Domů"
+          url: "/"
+        - title: "Životopis"
+          url: "/about/"
+        - title: "Japonština"
+          url: "/japonstina/"
+        # - title: "Autoři"
+        #   url: "/authors/"
 
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Hi there! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada. This blog is about learning, life, and inspiring you to take one step forward.
-
+    hero__title: "Nově vyšel můj cestopis <i>Japonskou krajinou a kulturou</i>! K dostání u každého rozumného knihkupce."
 
 #-------------------------------
 # Blog Settings
 blog:
-  blog__title: Blog & Resources
-  blog__description: Find out how to set up a successful blog or how to make yours even better!
-
+    blog__title: Všechny příspěvky
+    blog__description:
 
 #-------------------------------
 # Recommended Tag Settings
 tag:
-  enable: true
-  tag__title: Recommended
-  tag__name: Motivation
-
+    enable: false
+    tag__title: Recommended
+    tag__name: Motivation
 
 #-------------------------------
 # Newsletter Settings
 mailchimp:
-  enable: true
-  mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
-  mailchimp__title: Get interesting news
-  mailchimp__description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
-  mailchimp__input__text: Your Email Address...
-  mailchimp__button__text: Subscribe
-  mailchimp__background__image: "/images/110.jpg"
-
+    enable: false
+    mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+    mailchimp__title: Odběr novinek
+    mailchimp__description: Odebírejte novinky od Denisy Vostré, čerstvě pečené přímo do vaší schránky.
+    mailchimp__input__text: Email...
+    mailchimp__button__text: Odebírat
+    mailchimp__background__image: "/images/110.jpg"
 
 #-------------------------------
 # Footer Settings
 
 # Footer Navigation
 footer__menu__settings:
-  menu__items:
-    - title: 'Home'
-      url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Contact'
-      url: '/contact/'
-    - title: 'Authors'
-      url: '/authors/'
-    - title: 'Elements'
-      url: '/elements/'
-
+    menu__items:
+        - title: "Domů"
+          url: "/"
+        - title: "Životopis"
+          url: "/about/"
+        - title: "Japonština"
+          url: "/japonstina/"
+        - title: "Učebnice"
+          url: "/japonstina/ucebnice"
+        # - title: "Autoři"
+        #   url: "/authors/"
+        # - title: "Elements"
+        #   url: "/elements/"
 
 # Social Links
 social:
-- {icon: "ion-logo-twitter", color: "#55acee", name: Twitter, link: "https://twitter.com"}
-- {icon: "ion-logo-facebook", color: "#3b5999", name: Facebook, link: "https://facebook.com"}
-- {icon: "ion-logo-pinterest", color: "#bd081c", name: Pinterest, link: "https://pinterest.com"}
-- {icon: "ion-logo-dribbble", color: "#ea4c89", name: Dribbble, link: "https://dribbble.com"}
-- {icon: "ion-logo-instagram", color: "#e4405f", name: Instagram, link: "https://instagram.com"}
-
-# Example of adding a new link to the footer - {icon: "ion-logo-youtube", color: "#ff0000", name: Youtube, link: "https://youtube.com"}
-# Other icons can be found at https://ionicons.com/v4/
-
+    - { icon: "", color: "#563ACC", name: Mastodon, link: "https://ohai.social/@denisav" }
+    - { icon: "", color: "#E4405F", name: Instagram, link: "https://www.instagram.com/denisa.vostra" }
+    - {
+          icon: "",
+          color: "#ff0000",
+          name: Přednášky na Youtube,
+          link: "https://www.youtube.com/watch?v=0hCXiOQk0g4&list=PLfCjfwH2L15QpaiDpdWJpOgv600X4sjdW",
+      }
+    - { icon: "", color: "#E20025", name: Knihy na Kosmas.cz, link: "https://www.kosmas.cz/autor/3262/denisa-vostra/" }
+    - { icon: "", color: "#3F2C20", name: Knihy na Goodreads, link: "https://www.goodreads.com/author/show/3394917.Denisa_Vostr_" }
+    - {
+          icon: "",
+          color: "#ff0000",
+          name: Knihy v Městské knihovně v Praze,
+          link: "https://search.mlp.cz/cz/?p=&query=fql%3Axrank%28%28generic1%3Aint32%28%221386470%22%2C+mode%3D%22or%22%29+and+meta.collection%3Astring%28%22tituly%22%2C+mode%3D%22or%22%29%29+and+not+filter%28nadrizeny%3Astring%28%22HIDDEN%22%2C+mode%3D%22and%22%29%29%2C+ngeneric7%3Astring%28%22P%22%29%2C+ngeneric7%3Astring%28%22D%22%29%2C+boost+%3D+1000%29#/c_s_ol=query-eq:fql%253Axrank%2528%2528generic1%253Aint32%2528%25221386470%2522%252C%2Bmode%253D%2522or%2522%2529%2Band%2Bmeta.collection%253Astring%2528%2522tituly%2522%252C%2Bmode%253D%2522or%2522%2529%2529%2Band%2Bnot%2Bfilter%2528nadrizeny%253Astring%2528%2522HIDDEN%2522%252C%2Bmode%253D%2522and%2522%2529%2529%252C%2Bngeneric7%253Astring%2528%2522P%2522%2529%252C%2Bngeneric7%253Astring%2528%2522D%2522%2529%252C%2Bboost%2B%253D%2B1000%2529-amp:navigation-eq:-amp:sortOrder1-eq:-amp:sortBy1-eq:default-amp:lang-eq:cs",
+      }
+    - { icon: "", color: "#9E0000", name: ČBDB.cz, link: "https://www.cbdb.cz/autor-12683-denisa-vostra?show=knihy" }
+    - { icon: "", color: "#A03A3B", name: Databazeknih.cz, link: "https://www.databazeknih.cz/vydane-knihy/denisa-vostra-29327" }
+    - { icon: "", color: "#1852B1", name: Blog na Aktuálně.cz, link: "https://blog.aktualne.cz/blogy/denisa-vostra.php" }
 
 #-------------------------------
 # Contact Settings
 contact:
-  email: your@email.com # Add your email for contant form
+    email:
 
 # NOTE
 # Dann theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
 
-
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
-  disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-
+    enable: false
+    disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 #-------------------------------
 # Google Analytics

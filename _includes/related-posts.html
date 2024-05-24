@@ -25,11 +25,11 @@
         <div class="container__inner">
           <div class="section__info">
             <div class="section__head__small">
-              <h2 class="section__title">You may also like</h2>
+              <h2 class="section__title">Mohlo by se vám líbit</h2>
                 {% if page.tags.size >= 1 %}
                 {% for tag in page.tags %}
                   {% if forloop.index == 1 %}
-                    <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="section__link related-tag"><div>See all <span>{{ tag }}</span></div> <i class="ion ion-ios-arrow-round-forward"></i></a>
+                    <a href="{{ site.baseurl }}/tags/?tag={{ tag | downcase | url_encode }}" class="section__link related-tag"><div>Více se štítkem <span>{{ tag }}</span></div> <i class="ion ion-ios-arrow-round-forward"></i></a>
                   {% endif %}
                 {% endfor %}
               {% endif %}

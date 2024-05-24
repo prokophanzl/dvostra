@@ -1,49 +1,42 @@
 ---
 layout: page
-title: About
-description: Hey! I’m Dann Kanigan, a Filmmaker and Content Creator based in Toronto, Ontario, Canada.
+title: Životopis
+description:
 permalink: /about/
-image: '/images/01-2.jpg'
-image_caption: 'Photo by [Roman Shilin](https://unsplash.com/photos/Eg8_37ws7F0) on [Unsplash](https://unsplash.com/)'
+image:
+image_caption:
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Denisa Vostrá vystudovala chemické inženýrství na VŠCHT (1985-1990), japanologii na FF UK (1990-1997) a doktorské studium Teorie a praxe divadelní tvorby na Divadelní fakultě AMU (2009-2015). Věnovala se překládání, působila jako redaktorka a také jako lektorka japonštiny a japonské kultury.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Publikovala řadu článků o japonském jevištním umění v časopise Disk (2003-2012), vydala spolu s kolegyní Ditou Nymburskou a japonskou spolupracovnicí Mami Sawatari učebnicový komplex **Japonština** (LEDA 2007), je autorkou publikace **Předpoklady japonské scéničnosti** (KANT 2015) a editorkou **Zeamiho Poučení hercům** (KANT 2016).
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+Učí na Metropolitní univerzitě Praha, na Slezské univerzitě v Opavě a na pražském Gymnáziu Jana Nerudy. V jazykové škole Spěváček vede pomaturitní studium japonštiny. V rámci Ústavu dramatické a scénické tvorby DAMU zkoumá možnosti tvůrčího využití specifik japonské estetiky a tradičního jevištního umění v současné divadelní praxi. S nakladatelstvím ExOriente spolupracuje na vydávání titulů z oblasti japonské kultury a v poslední době se věnuje i psaní beletrie.
 
-Phosfluorescently engage worldwide methodologies with web-enabled technology. Interactively coordinate proactive e-commerce via process-centric “outside the box” thinking. Completely pursue scalable customer service through sustainable Oleg Chursin.
+---
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+## Mgr. Ing. Denisa Vostrá, Ph.D.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/02.jpg" loading="lazy">
-    <img src="/images/07.jpg" loading="lazy">
-    <img src="/images/04.jpg" loading="lazy">
-    <img src="/images/09.jpg" loading="lazy">
-    <img src="/images/06.jpg" loading="lazy">
-    <img src="/images/03.jpg" loading="lazy">
-    <img src="/images/21.jpg" loading="lazy">
-    <img src="/images/03-2.jpg" loading="lazy">
-    <img src="/images/16-2.jpg" loading="lazy">
-  </div>
-  <em>My Best Works / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
-
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
-
-Objectively innovate empowered manufactured products whereas parallel platforms. Holisticly predominate extensible testing procedures for reliable supply chains. Dramatically engage top-line web services vis-a-vis cutting-edge deliverables.
-
-### Dynamically innovate
-
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
-
-<p><iframe src="https://www.youtube.com/embed/QMw6kzi3Wx8" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
-
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
-
-Distinctively exploit optimal alignments for intuitive bandwidth. Quickly coordinate e-business applications through revolutionary catalysts for change. Seamlessly underwhelm optimal testing procedures whereas bricks-and-clicks processes.
-
-***
+-   1980—1984 Gymnázium Jana Nerudy, Praha
+-   1985—1990 VŠCHT Praha
+    -   obor Chemické inženýrství (Ing.)
+-   1990—1997 FF UK Praha
+    -   obor Japanologie (Mgr.)
+-   od 1997 překlady z japonštiny a z angličtiny, publikační a redakční činnost
+    -   Mladá fronta, Paseka, Vyšehrad, ExOriente
+-   2001—2007 výuka japonštiny, japonské literatury a historie v pomaturitním studiu japonštiny (LCDH Praha)
+-   od 2003 spolupráce s Ústavem dramatické a scénické tvorby DAMU
+-   2009—2015 doktorské studium na DAMU, Praha, obor Teorie a praxe divadelní tvorby (Ph.D.)
+-   2009—2010 výuka na MU Brno
+    -   Úvod do japanistiky
+-   od 2009 výuka v pomaturitním studiu japonštiny JŠ Spěváček, Praha
+    -   Japonská historie a kultura / Tvarosloví a četba textu
+    -   vedoucí japonských studií
+-   od 2010 výuka na Metropolitní univerzitě Praha
+    -   Japonská historie a společnost
+    -   Úvod do studia Japonska / Japonština
+-   od 2013 výuka na Gymnáziu Jana Nerudy, Praha
+    -   Japonština a japonské reálie
+-   od 2015 výuka na SLU Opava
+    -   2015—2021 Japonská scénická kultura / Japonské tradiční divadlo
+    -   od 2020 Divadelní vnímání / Kultura scénování a scénická kultura
