@@ -1,8 +1,8 @@
 ---
 #-------------------------------
 # General Site Settings
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://prokophanzl.github.io/dvostra/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dvostra" # the subpath of your site, e.g. /blog
+url: "https://prokophanzl.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Build Settings
