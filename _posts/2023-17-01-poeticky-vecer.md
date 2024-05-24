@@ -7,7 +7,7 @@ author: vhanzl
 image: images/poeticky_vecer/poeticky_vecer.jpg
 image_caption: Plakát poetického večera
 # tags: [kniha]
-featured: true
+featured:
 ---
 
 V úterý 24. 1. 2023 v 18:30 hodin v [Knihovně Uměleckoprůmyslového muzea v Praze](https://www.upm.cz/navstivte-nas/oteviraci-doba/). Knihy Denisy Vostré bude možno v průběhu večera v Knihovně UPM zakoupit.
