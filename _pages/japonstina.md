@@ -9,7 +9,7 @@ image_caption:
 
 # Pomůcky ke studiu japonštiny
 
-## Kartičky abeced a znaků k učebnici [**Japonština**](ucebnice/) (PDF)
+## Kartičky abeced a znaků k učebnici [**Japonština**](ucebnice/)
 
 1. lekce: <a href='{{ site.baseurl }}/resources/ucebnice/karticky_abecedy/hiragana_pexeso.pdf' target='_blank'>hiragana</a> • <a href='{{ site.baseurl }}/resources/ucebnice/karticky_abecedy/kataana_pexeso.pdf' target='_blank'>katakana</a>
 2. lekce: <a href='{{ site.baseurl }}/resources/ucebnice/karticky_abecedy/02pexeso_znaky.pdf' target='_blank'>znaky</a>
@@ -32,7 +32,7 @@ image_caption:
 19. lekce: <a href='{{ site.baseurl }}/resources/ucebnice/karticky_abecedy/19pexeso_znaky.pdf' target='_blank'>znaky</a>
 20. lekce: <a href='{{ site.baseurl }}/resources/ucebnice/karticky_abecedy/20pexeso_znaky.pdf' target='_blank'>znaky</a>
 
-## Kartičky ke slovíčkům k učebnici [**Japonština**](ucebnice/) (PDF, určeno k oboustrannému tisku)
+## Kartičky ke slovíčkům k učebnici [**Japonština**](ucebnice/) (určeno k oboustrannému tisku)
 
 -   <a href='{{ site.baseurl }}/resources/ucebnice/karticky_slovicka/kartickyL1L2.pdf' target='_blank'>Lekce 1 a 2</a>
 -   <a href='{{ site.baseurl }}/resources/ucebnice/karticky_slovicka/kartickyL3L4.pdf' target='_blank'>Lekce 3 a 4</a>
@@ -55,3 +55,5 @@ image_caption:
 -   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 6</a> (místní zájmena KOKO/SOKO/ASOKO, další pomocná jména, spojení partikulí NI MO)
 -   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 7</a> (základní slovesa, vazby s partikulemi WO (O), HE (E), DE)
 -   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 8</a> (časování adjektiv, barvy)
+
+---
