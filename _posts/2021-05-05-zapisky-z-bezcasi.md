@@ -304,3 +304,12 @@ Není plyšák všechno, co se tak snaží vypadat. A cesta dolů je mnohem snaz
 Je vám líto, že kniha už skončila? Zkuste [blog Denisy Vostré na Aktuálně.cz](https://blog.aktualne.cz/blogy/denisa-vostra.php).
 
 ---
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="{{site.baseurl}}/images/zapisky/zapisky_z_bezcasi.png" loading="lazy" alt="">
+  </div>
+  <em>Přebal knihy</em>
+</div>
+
+---

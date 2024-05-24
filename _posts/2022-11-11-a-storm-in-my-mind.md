@@ -36,6 +36,11 @@ Unsure if that was in my best interest, I didn’t reply. I remembered that come
 
 ---
 
-![h16]({{site.baseurl}}/images/lisabon/lisabon.png)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="{{site.baseurl}}/images/lisabon/lisabon.png" loading="lazy" alt="">
+  </div>
+  <em>Book cover</em>
+</div>
 
 ---

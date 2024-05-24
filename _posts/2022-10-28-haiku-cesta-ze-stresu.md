@@ -28,6 +28,11 @@ _Vypsat se ze svých pocitů způsobem, jejž doporučujeme, má jednu podstatno
 
 ---
 
-![h16]({{site.baseurl}}/images/haiku/haiku.png)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="{{site.baseurl}}/images/haiku/haiku.png" loading="lazy" alt="">
+  </div>
+  <em>Přebal knihy</em>
+</div>
 
 ---

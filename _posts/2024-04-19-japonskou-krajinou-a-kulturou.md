@@ -21,6 +21,11 @@ _Deník japanoložky Denisy Vostré vás vezme do jokohamského přístavu, do c
 
 ---
 
-![h16]({{site.baseurl}}/images/japonskou_krajinou_a_kulturou.jpg)
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="{{site.baseurl}}/images/japonskou_krajinou_a_kulturou.jpg" loading="lazy" alt="">
+  </div>
+  <em>Přebal knihy</em>
+</div>
 
 ---
