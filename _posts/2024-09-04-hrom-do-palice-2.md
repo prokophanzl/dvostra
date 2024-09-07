@@ -41,16 +41,11 @@ Denisa Vostrá, Adléta Hanžlová, Radkin Honzák: _Hrom do palice_, vydává n
 
 ### Kontakt
 
-Helena Frantová - PR manažerka
-
-Euromedia Group, a. s.
-
-Nádražní 762/32, Praha 5-Smíchov
-
-e-mail: [frantova.helena@euromedia.cz](mailto:frantova.helena@euromedia.cz)
-
-tel. 602 658 926
-
+Helena Frantová - PR manažerka<br>
+Euromedia Group, a. s.<br>
+Nádražní 762/32, Praha 5-Smíchov<br>
+e-mail: [frantova.helena@euromedia.cz](mailto:frantova.helena@euromedia.cz)<br>
+tel. 602 658 926?<br>
 (www.euromedia.cz)
 
 ---
