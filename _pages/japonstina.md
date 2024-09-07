@@ -45,15 +45,4 @@ image_caption:
 -   <a href='{{ site.baseurl }}/resources/ucebnice/karticky_slovicka/kartickyL17L18.pdf' target='_blank'>Lekce 17 a 18</a>
 -   <a href='{{ site.baseurl }}/resources/ucebnice/karticky_slovicka/kartickyL19L20.pdf' target='_blank'>Lekce 19 a 20</a>
 
-## Souhrny gramatiky v latince (PDF)
-
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 1</a> (představování, pozdravy, zdvořilostní přípony, spona DA/DESU, větné tázací partikule KA/NO, otázky a odpovědi)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 2</a> (poděkování, číslovky 1-10, partikule WA, NO, národy a národnosti)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 3</a> (ukazovací a tázací zájmena, rodina: skromné a zdvořilé výrazy)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 4</a> (slovesa ARU/IRU, partikule NI, GA, osobní zájmena, přivlastňovací vazby)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 5</a> (pomocná jména místní: UE, NAKA, ŠITA, HIDARI, MIGI, SOBA, partikule MO)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 6</a> (místní zájmena KOKO/SOKO/ASOKO, další pomocná jména, spojení partikulí NI MO)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 7</a> (základní slovesa, vazby s partikulemi WO (O), HE (E), DE)
--   <a href='{{ site.baseurl }}/resources/ucebnice/souhrny/souhrn1.pdf' target='_blank'>Souhrn 8</a> (časování adjektiv, barvy)
-
 ---
