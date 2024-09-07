@@ -21,6 +21,17 @@ _Deník japanoložky Denisy Vostré vás vezme do jokohamského přístavu, do c
 
 ---
 
+### Zmínky v tisku
+Deník Metro, 17. června 2024:
+
+![h16]({{site.baseurl}}/images/japonskou_krajinou_a_kulturou/metro240617.jpg)
+
+Příloha MF Dnes, 21. června 2024:
+
+![h16]({{site.baseurl}}/images/japonskou_krajinou_a_kulturou/MF240621priloha.jpg)
+
+---
+
 <div class="gallery-box">
   <div class="gallery">
     <img src="{{site.baseurl}}/images/japonskou_krajinou_a_kulturou/japonskou_krajinou_a_kulturou.jpg" loading="lazy" alt="">

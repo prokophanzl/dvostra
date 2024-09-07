@@ -6,7 +6,6 @@ date: 2023-06-25 15:00
 author: vhanzl
 image: /images/japonstina_pro_kazdeho/japonstina_pro_kazdeho.png
 image_caption: Plakát poetického večera
-# tags: [kniha]
 featured: true
 ---
 
