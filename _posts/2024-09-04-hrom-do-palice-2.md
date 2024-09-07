@@ -46,7 +46,7 @@ Euromedia Group, a. s.<br>
 Nádražní 762/32, Praha 5-Smíchov<br>
 e-mail: [frantova.helena@euromedia.cz](mailto:frantova.helena@euromedia.cz)<br>
 tel. 602 658 926?<br>
-(www.euromedia.cz)
+[euromedia.cz](www.euromedia.cz)
 
 ---
 
