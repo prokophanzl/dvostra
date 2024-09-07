@@ -75,7 +75,6 @@ footer__menu__settings:
 
 # Social Links
 social:
-    - { icon: "", color: "#563ACC", name: Mastodon, link: "https://ohai.social/@denisav" }
     - { icon: "", color: "#E4405F", name: Instagram, link: "https://www.instagram.com/denisa.vostra" }
     - {
           icon: "",
@@ -93,7 +92,8 @@ social:
       }
     - { icon: "", color: "#9E0000", name: ČBDB.cz, link: "https://www.cbdb.cz/autor-12683-denisa-vostra?show=knihy" }
     - { icon: "", color: "#A03A3B", name: Databazeknih.cz, link: "https://www.databazeknih.cz/vydane-knihy/denisa-vostra-29327" }
-    - { icon: "", color: "#1852B1", name: Blog na Aktuálně.cz, link: "https://blog.aktualne.cz/blogy/denisa-vostra.php" }
+    - { icon: "", color: "#FB460E", name: Blog na Médium.cz, link: "https://medium.seznam.cz/autor/denisa-vostra-6521" }
+    - { icon: "", color: "#1852B1", name: Archiv blogu na Aktuálně.cz, link: "https://blog.aktualne.cz/blogy/denisa-vostra.php" }
 
 #-------------------------------
 # Contact Settings
