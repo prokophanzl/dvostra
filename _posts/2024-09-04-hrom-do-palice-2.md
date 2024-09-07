@@ -39,6 +39,15 @@ V současné době studuje fonetiku na FF UK.
 
 Denisa Vostrá, Adléta Hanžlová, Radkin Honzák: _Hrom do palice_, vydává nakladatelství Universum, 216 stran, doporučená cena 359 Kč.
 
+### Kontakt
+
+Helena Frantová - PR manažerka
+Euromedia Group, a. s.
+Nádražní 762/32, Praha 5-Smíchov
+e-mail: [frantova.helena@euromedia.cz](mailto:frantova.helena@euromedia.cz)
+tel. 602 658 926
+[www.euromedia.cz]
+
 ---
 
 <div class="gallery-box">
