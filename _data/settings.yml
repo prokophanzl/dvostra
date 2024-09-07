@@ -28,7 +28,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-    hero__title: "V květnu vyšel můj cestopis <i>Japonskou krajinou a kulturou</i>! K dostání u každého rozumného knihkupce."
+    hero__title: "<small><small>4. 9. 2024 vyšla naše kniha <i>Hrom do palice aneb Jak najít svůj život</i>. Mám radost z načasování, na začátku školního roku by knížka mohla být dobrým impulsem (nejen) pro teenager(k)y a jejich rodiče. Nabízí ji Luxor, Kosmas i další knihkupci (i jako e-knihu). Za všechny autory přeju pohodové čtení!</small></small>"
 
 #-------------------------------
 # Blog Settings
