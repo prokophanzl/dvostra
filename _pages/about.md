@@ -20,10 +20,10 @@ V současné době učí na Metropolitní univerzitě Praha, v pomaturitním stu
     -   obor Japanologie (Mgr.)
 -   od 1997 překlady z japonštiny a z angličtiny, redakční a publikační činnost
     -   Brody, Mladá fronta, Paseka, Vyšehrad, DharmaGaia, ExOriente, Kant, Universum
--   2001—2007 výuka japonštiny, japonské literatury a historie v pomaturitním studiu japonštiny (LCDH Praha)
+-   2001—2007 výuka v pomaturitním studiu japonštiny (LCDH Praha)
 -   od 2003 spolupráce s Ústavem dramatické a scénické tvorby DAMU
 -   2009—2015 doktorské studium na DAMU, Praha, obor Teorie a praxe divadelní tvorby (Ph.D.)
--   2009—2010 výuka na MU Brno
+-   2009—2010 výuka na FF MU Brno
 -   od 2009 výuka v pomaturitním studiu japonštiny JŠ Spěváček, Praha
 -   od 2010 výuka na Metropolitní univerzitě Praha
 -   od 2013 výuka na Gymnáziu Jana Nerudy, Praha
