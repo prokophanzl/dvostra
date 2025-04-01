@@ -2,7 +2,7 @@
 layout: post
 title: Pozvánka na představení nové knihy Japonský rok
 description: Spolu s Alicí Kraemerovou vás 3. dubna provedu naší novou knihou Japonský rok.
-date: 2024-04-01 16:00
+date: 2025-04-01 16:00
 author: dvostra
 image: /images/japonsky-rok/pozvanka.jpg
 image_caption: Pozvánka na akci.
