@@ -11,7 +11,7 @@ featured: true
 
 Spolu s Alicí Kraemerovou vás 3. dubna provedu naší novou knihou Japonský rok. Pozvěte kamarády a rodinu a nechte se vtáhnout do pestrého a bohatého japonského světa!
 
-Je nutná rezervace míst (zdarma) — (https://www.nm.cz/naprstkovo-muzeum-asijskych-africkych-a-americkych-kultur/japonsky-rok2)[zde].
+Je nutná rezervace míst (zdarma) — [zde](https://www.nm.cz/naprstkovo-muzeum-asijskych-africkych-a-americkych-kultur/japonsky-rok2).
 
 ---
 
