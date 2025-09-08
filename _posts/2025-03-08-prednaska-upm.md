@@ -5,8 +5,8 @@ description: "Pozvánka na přednášku a prohlídku kaligrafií do knihovny Um�
 date: 2025-03-08
 author: dvostra
 image: /images/prednaska_upm/prednaskaUPM.jpg
-image_caption: "[POPIS OBRÁZKU]"
-featured: true
+image_caption:
+featured: false
 ---
 
 Těším se na setkání v překrásném prostoru knihovny Uměleckoprůmyslového muzea v Praze! Uvidíme se v úterý 25. března od 18:15. Po přednášce zaměřené na estetické principy japonské tradiční kultury budete mít jedinečnou možnost si prohlédnout kaligrafické knihy, které knihovně věnovala umělkyně Šigecu Šinohara. Vstup volný. Podrobnosti [zde.](https://knihovna-upm.cz/prednaska-japanolozky-a-spisovatelky-denisy-vostre/)

@@ -5,8 +5,8 @@ description: "V úterý 21. ledna jsme se sešli v krásné knihovně Uměleckop
 date: 2025-02-24
 author: dvostra
 image: /images/hrom-knihovna/hromkni.jpg
-image_caption: "[POPIS OBRÁZKU]"
-featured: true
+image_caption: ""
+featured: false
 ---
 
 Setkání v Knihovně Uměleckoprůmyslového muzea v Praze (nejen) nad knihou Hrom do palice aneb jak najít svůj život bylo moc příjemné! Děkujeme za pozvání!

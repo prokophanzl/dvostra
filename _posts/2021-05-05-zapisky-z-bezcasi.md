@@ -7,7 +7,7 @@ author: vhanzl
 image: /images/zapisky/zapisky_z_bezcasi.png
 image_caption: Přebal knihy
 # tags: [kniha]
-featured: true
+featured: false
 ---
 
 Zápisky z bezčasí Denisy Vostré, inspirované „dobou s koronavirem“, ukazují, že události v životě moderního člověka v sobě střetávají vážné s nevážným

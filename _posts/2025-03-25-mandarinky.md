@@ -6,7 +6,7 @@ date: 2025-03-25 16:00
 author: dvostra
 image: /images/mandarinky/obalka.jpg
 image_caption:
-featured: true
+featured: false
 ---
 
 _Kniha Japonský rok od autorek Denisy Vostré a Alice Kraemerové nabízí netradiční pohled na Japonsko. Nejenže mapuje jeho svátky a zvyky v průběhu roku, ale zároveň umožňuje čtenářům nahlédnout do jeho historie, kultury a způsobů myšlení. „Tento průvodce po japonském roce přináší nejen přehled významných událostí, ale také drobných rituálů a zvyků, které se mnohdy skrývají v každodennosti,“ vysvětluje japanoložka a autorka Vostrá. Jak vlastně tento fascinující projekt vznikal? A jaké jsou největší mýty, které si Evropané o Japonsku stále udržují? Vostrá s Kraemerovou se o tom a mnohém dalším rozpovídaly ve společném rozhovoru pro deník Metro._

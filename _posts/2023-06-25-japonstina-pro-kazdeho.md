@@ -6,7 +6,7 @@ date: 2023-06-25 15:00
 author: vhanzl
 image: /images/japonstina_pro_kazdeho/japonstina_pro_kazdeho.png
 image_caption: Plakát poetického večera
-featured: true
+featured: false
 ---
 
 Učebnice základní japonštiny se spoustu zajímavostí o japonské společnosti a kultuře od Denisy Vostré a Alice Kraemerové. [Vyšlo v nakladatelství Universum.](https://www.luxor.cz/v/1938444/japonstina-pro-kazdeho)

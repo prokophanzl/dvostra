@@ -6,7 +6,7 @@ date: 2024-08-30
 author: dvostra
 image: /images/rozhovor/rozhovor.jpg
 image_caption: Denisa Vostrá s kamarádkou
-featured: true
+featured: false
 ---
 
 V deníku Metro vyšel 30. srpna 2024 rozhovor se mnou. Přečtěte si jej [zde](https://www.metro.cz/spolecnost/mladi-chteji-skrz-japonsko-poznat-hlavne-sami-sebe-prozrazuje-japanolozka-denisa-vostra.A240829_144156_metro-spolecnost_isim)!

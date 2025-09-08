@@ -6,7 +6,7 @@ date: 2024-09-04
 author: dvostra
 image: /images/hrom_do_palice/prebal.jpg
 image_caption: Přebal knihy
-featured: true
+featured: false
 ---
 
 ### Koupit knihu / informace

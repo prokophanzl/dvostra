@@ -7,7 +7,7 @@ author: vhanzl
 image: /images/lisabon/lisabon.png
 image_caption: Přebal knihy
 # tags: [kniha]
-featured: true
+featured: false
 ---
 
 **Že tuhle knihu Denisy Vostré ještě neznáte?** Není divu, nějakou dobu existovala jen v [privátním vydání]({{site.baseurl}}/images/lisabon/privatni_vydani.jpg) s nákladem "asi tři kusy". I tak jste si mohli [přečíst recenzi](https://blog.aktualne.cz/blogy/radkin-honzak.php?itemid=42609). V říjnu 2022 už ale vyšla v nakladatelství Kant!
