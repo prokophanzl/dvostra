@@ -7,7 +7,7 @@ author: dvostra
 image: /images/pozvanka-ostrava/screenshot.png
 image_caption: Japonské dny v Ostravě
 # tags: [kniha]
-featured: true
+# featured: true
 ---
 
 V rámci festivalu Japonské dny v Ostravě budu mít 18. 10. 2025 ve 14:00 přednášku _Krása nedokonalosti a radost z bytí – japonské koncepty pro dnešní svět_. Zaměří se na ikigai, kincugi, omoijari, wabi-sabi a podobně. Více informací na [stránkách festivalu](https://www.japonskedny.cz).
