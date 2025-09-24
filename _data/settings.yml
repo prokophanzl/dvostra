@@ -28,11 +28,7 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
-<<<<<<< HEAD
-    hero__title: "<small><small>V březnu 2025 vyšla kniha <i>Japonský rok. Stručný průvodce japonskou historií a kulturou</i>, kterou jsme napsaly společně s Alicí Kraemerovou. Nabízí ji Luxor, Kosmas i další knihkupci (i jako e-knihu). Za obě autorky přeju příjemné čtení!</small></small>"
-=======
     hero__title: "<small><small>Zatím poslední novinkou je kniha Japonský rok: Stručný průvodce japonskou historií a kulturou, kterou jsme napsaly s Alicí Kraemerovou. Další společnou novinku plánujeme na jaro 2026.</small></small>"
->>>>>>> 658506c2d3ce964759f837a2c04eae5f39c76d7d
 
 #-------------------------------
 # Blog Settings
