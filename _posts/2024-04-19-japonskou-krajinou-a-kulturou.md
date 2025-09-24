@@ -7,7 +7,7 @@ author: dvostra
 image: /images/japonskou_krajinou_a_kulturou/japonskou_krajinou_a_kulturou.jpg
 image_caption: Přebal knihy
 # tags: [kniha, japonsko]
-featured: true
+featured: false
 ---
 
 Kniha vychází v květnu 2024, [lze si ji objednat v e-shopech a podívat se na ukázku](https://www.luxor.cz/v/2020217/japonskou-krajinou-a-kulturou).
@@ -22,6 +22,7 @@ _Deník japanoložky Denisy Vostré vás vezme do jokohamského přístavu, do c
 ---
 
 ### Zmínky v tisku
+
 Deník Metro, 17. června 2024:
 
 ![h16]({{site.baseurl}}/images/japonskou_krajinou_a_kulturou/metro240617.jpg)

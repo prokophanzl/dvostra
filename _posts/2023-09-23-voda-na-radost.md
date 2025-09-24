@@ -7,7 +7,7 @@ author: vhanzl
 image: /images/voda_na_radost/voda_na_radost.png
 image_caption: Plakát poetického večera
 # tags: [kniha]
-featured: true
+featured: false
 ---
 
 Další společná knížka psychiatra Radkina Honzáka a japanoložky Denisy Vostré, tentokrát o radosti a humoru. Přečtěte si [recenzi Radky Mothejzíkové](https://kultura21.cz/zdravi-a-zivotni-styl/26147-voda-na-radost-euromediagroup-universum-recenze).

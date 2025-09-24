@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Setkání nad knihou Hrom do palice aneb Jak najít svůj život"
-description: "V úterý 21. ledna jsme se sešli v krásné knihovně Uměleckoprůmyslového muzea, abychom představili naši společnou knihu. Bylo plno, děkujeme!"
-date: 2025-02-24
+title: "Pozvánka na přednášky do Uměleckoprůmyslového muzea"
+description: "Srdečně vás zvu na dvě říjnové přednášky o japonském duchovním prostoru!"
+date: 2025-09-24
 author: dvostra
-image: /images/hrom-knihovna/hromkni.jpg
+image: /images/upm_rijen25/upm.jpg
 image_caption: ""
-featured: false
+featured: true
 ---
 
-Setkání v Knihovně Uměleckoprůmyslového muzea v Praze (nejen) nad knihou Hrom do palice aneb jak najít svůj život bylo moc příjemné! Děkujeme za pozvání!
+7. a 21. října proběhnou v krásných prostorách knihovny Uměleckoprůmyslového muzea přednášky týkající se japonské estetiky. V té první bude řeč o prostoru duchovního prožitku, ve druhé o prostoru japonského umění. Těším se na vás! Informace na https://knihovna-upm.cz/. 
 
 ---
 

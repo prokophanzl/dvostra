@@ -6,7 +6,7 @@ date: 2024-12-18
 author: dvostra
 image: /images/setkani-leden-25/plakat.jpg
 image_caption: "Pozvánka na setkání"
-featured: true
+featured: false
 ---
 
 Srdečně zvu na setkání s knihou Hrom do palice aneb Jak najít svůj život a také se všemi jejími autory. Řeč bude třeba o konkrétních strategiích pro náročná období či o japonském přístupu k životu, chybět ovšem nebude ani humor.

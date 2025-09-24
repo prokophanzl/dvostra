@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Setkání nad knihou Hrom do palice aneb Jak najít svůj život"
-description: "V úterý 21. ledna jsme se sešli v krásné knihovně Uměleckoprůmyslového muzea, abychom představili naši společnou knihu. Bylo plno, děkujeme!"
-date: 2025-02-24
+title: "[NÁZEV ČLÁNKU]"
+description: "[POPIS ČLÁNKU]"
+date: 2025-09-19
 author: dvostra
-image: /images/hrom-knihovna/hromkni.jpg
-image_caption: ""
+image: /images/[DOPLNIT OBRÁZEK]
+image_caption: "[POPIS OBRÁZKU]"
 featured: false
 ---
 
-Setkání v Knihovně Uměleckoprůmyslového muzea v Praze (nejen) nad knihou Hrom do palice aneb jak najít svůj život bylo moc příjemné! Děkujeme za pozvání!
+[TĚLO ČLÁNKU]
 
 ---
 

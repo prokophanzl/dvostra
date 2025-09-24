@@ -28,7 +28,11 @@ menu__settings:
 #-------------------------------
 # Hero Settings
 hero:
+<<<<<<< HEAD
     hero__title: "<small><small>V březnu 2025 vyšla kniha <i>Japonský rok. Stručný průvodce japonskou historií a kulturou</i>, kterou jsme napsaly společně s Alicí Kraemerovou. Nabízí ji Luxor, Kosmas i další knihkupci (i jako e-knihu). Za obě autorky přeju příjemné čtení!</small></small>"
+=======
+    hero__title: "<small><small>Zatím poslední novinkou je kniha Japonský rok: Stručný průvodce japonskou historií a kulturou, kterou jsme napsaly s Alicí Kraemerovou. Další společnou novinku plánujeme na jaro 2026.</small></small>"
+>>>>>>> 658506c2d3ce964759f837a2c04eae5f39c76d7d
 
 #-------------------------------
 # Blog Settings
@@ -93,7 +97,7 @@ social:
     - { icon: "", color: "#9E0000", name: ČBDB.cz, link: "https://www.cbdb.cz/autor-12683-denisa-vostra?show=knihy" }
     - { icon: "", color: "#A03A3B", name: Databazeknih.cz, link: "https://www.databazeknih.cz/vydane-knihy/denisa-vostra-29327" }
     - { icon: "", color: "#FB460E", name: Blog na Médium.cz, link: "https://medium.seznam.cz/autor/denisa-vostra-6521" }
-    - { icon: "", color: "#1852B1", name: Archiv blogu na Aktuálně.cz, link: "https://blog.aktualne.cz/blogy/denisa-vostra.php" }
+    # - { icon: "", color: "#1852B1", name: Archiv blogu na Aktuálně.cz, link: "https://blog.aktualne.cz/blogy/denisa-vostra.php" }
 
 #-------------------------------
 # Contact Settings

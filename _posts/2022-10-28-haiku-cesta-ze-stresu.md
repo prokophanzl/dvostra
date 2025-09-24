@@ -7,7 +7,7 @@ author: vhanzl
 image: /images/haiku/haiku.png
 image_caption: Přebal knihy
 # tags: [kniha]
-featured: true
+featured: false
 ---
 
 Poetická příručka k používání vlastních emocí i rozumu, od psychiatra Radkina Honzáka a japanoložky Denisy Vostré. Navíc se dozvíte mnoho o japonské kultuře a jistě vás potěší inspirující básně! [Vyšlo v říjnu 2022](https://www.knizniklub.cz/knihy/598299-haiku-cesta-ze-stresu.html?show), [k dostání v mnoha e-shopech! Můžete si přečíst ukázku.](https://www.knizniklub.cz/knihy/598299-haiku-cesta-ze-stresu.html?show)
