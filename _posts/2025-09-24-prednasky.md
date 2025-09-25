@@ -9,7 +9,7 @@ image_caption: ""
 featured: true
 ---
 
-\7. a 21. října proběhnou v krásných prostorách knihovny Uměleckoprůmyslového muzea přednášky týkající se japonské estetiky. V té první bude řeč o prostoru duchovního prožitku, ve druhé o prostoru japonského umění. Těším se na vás! Informace na https://knihovna-upm.cz/.
+V krásných prostorách knihovny Uměleckoprůmyslového muzea proběhnou 7. a 21. října přednášky týkající se japonské estetiky. V té první bude řeč o prostoru duchovního prožitku, ve druhé o prostoru japonského umění. Těším se na vás! Informace na https://knihovna-upm.cz/.
 
 ---
 
