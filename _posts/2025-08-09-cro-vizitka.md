@@ -9,7 +9,7 @@ image_caption: ""
 featured: true
 ---
 
-V pořadu Vizitka jsme 8. srpna 2025 mluvily s Alicí Kraemerovou o naší nové knize Japonský rok, ale i o japonské kultuře a společnosti. Celý rozhovor si můžete poslechnout [zde] (https://vltava.rozhlas.cz/kdyz-japonci-mluvi-o-sobe-ukazuji-si-na-nos-rikaji-japanolozky-vostra-a-9530371).
+V pořadu Vizitka jsme 8. srpna 2025 mluvily s Alicí Kraemerovou o naší nové knize Japonský rok, ale i o japonské kultuře a společnosti. Celý rozhovor si můžete poslechnout zde: <https://vltava.rozhlas.cz/kdyz-japonci-mluvi-o-sobe-ukazuji-si-na-nos-rikaji-japanolozky-vostra-a-9530371>.
 
 ---
 
